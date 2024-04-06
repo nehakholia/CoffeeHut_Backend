@@ -15,3 +15,4 @@
 ## Yearly Users
 - No discount
 
+## Loyal Users

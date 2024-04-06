@@ -6,3 +6,4 @@
 - Google Pay
 - Cash on Delivery
 - E-wallets
+- Coffehut_Wallet
